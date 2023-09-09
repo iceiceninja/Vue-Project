@@ -1,4 +1,10 @@
-# hello-world
+# Vue Project
+
+- Clone repository
+
+- Make sure you have npm installed. If not, maybe use nvm to install node and npm on your machine
+
+### Once project is cloned in repository and npm is installed begin the following steps...
 
 ## Project setup
 ```
